@@ -1,0 +1,4 @@
+*.json -linguist-detected
+.babelrc -linguist-detected
+.eslintignore -linguist-detected
+.eslintrc.js -linguist-detected
